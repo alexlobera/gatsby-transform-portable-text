@@ -68,7 +68,6 @@ Useful to display the excerpt or the reading time in minutes of a type that retu
 ```GraphQL
 query Example {
   sanityPost(id: { eq: $id }) {
-      # _rawBody(resolveReferences: { maxDepth: 5 })
       readingTimeInMinutes
       excerpt
   }
