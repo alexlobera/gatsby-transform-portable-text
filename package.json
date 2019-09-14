@@ -1,7 +1,16 @@
 {
   "name": "gatsby-transform-portable-text",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-transformer-plugin",
+    "portabletext",
+    "excerpt",
+    "portable text",
+    "sanity",
+    "gatsby-sanity-source"
+  ],
   "license": "MIT",
   "author": "React GraphQL Academy<hello@reactgraphql.academy>",
   "main": "index.js",
