@@ -2,8 +2,8 @@
 
 This plugin extends one or more Gatsby GraphQL types and adds the following fields:
 
-- `excerpt`. It returns the excerpt of a given [text field](#text-field) in a given type.
-- `readingTimeInMinutes`. It returns the reading time in minutes of given a [text field](#text-field) in a given type.
+- `excerpt`: it returns the excerpt of a given [text field](#text-field) in a given type.
+- `readingTimeInMinutes`: it returns the reading time in minutes of given a [text field](#text-field) in a given type.
 
 ### Text field
 
