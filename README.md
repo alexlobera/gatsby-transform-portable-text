@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/reactgraphqlacademy/gatsby-transform-portable-text/tree/master.svg?style=svg)](https://circleci.com/gh/reactgraphqlacademy/gatsby-transform-portable-text/tree/master)
+
 ## Description
 
 This plugin extends one or more Gatsby GraphQL types and adds the following fields:
